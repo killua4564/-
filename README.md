@@ -21,6 +21,7 @@
 * You can evaluate your perfect rate in this. It'll let your score higher because of yourself.
 
 # Version
+* 2.2 add personal +1400 and team 4%
 * 2.1 fix add_score problem
 * 2.0 add decide center system, after fill the hold
 * 1.6 function add_score_compute condition add second

@@ -69,7 +69,7 @@ if __name__ == '__main__':
                     Member('SSR_Yoshiko', 5920, 3, 0, 'Unit'),
                     Member('SSR_Riko', 5840, 3, add_score_compute('note', 22, 0.32, 410), 'Grade')
                 ])
-
+    
     print(us_smile)
     print(us_pure)
     print(us_cool)
